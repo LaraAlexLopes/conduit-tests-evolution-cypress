@@ -3,7 +3,7 @@
 
 Este repositório apresenta uma evolução progressiva de testes **frontend** para a aplicação [Conduit](https://github.com/gothinkster/react-redux-realworld-example-app), utilizando a ferramenta de testes end-to-end **Cypress**.
 
-O foco é demonstrar diferentes níveis de organização, abstração e reutilização de código ao escrever testes para as funcionalidades de **autenticação** (`Sign Up` e `Sign In`).
+O foco é demonstrar diferentes níveis de organização, abstração e reutilização de código ao escrever testes para as funcionalidades de **autenticação** (`Sign Up` e `Sign In`) e **navegação**  (`Home`).
 
 ---
 
